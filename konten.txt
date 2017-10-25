@@ -1,0 +1,29 @@
+[PERUSAHAAN PARFUM COPAGABANA]
+
+konten web: 
+
+# tab :   
+	- home (logo, keterangan singkat copagabana [perusahaan apa], header, footer)
+	- about (history, perkembangan pertahun, visi misi, divisi / departemen perusahaan) 
+	- our bussiness (perusahaan cabang di kota” lain & perusahaan mitra (Sense Singapore, Givaudan, Mane)
+	- product (gambar produk, keterangan produk)
+        
+    
+# footer : head office, factory, link ke tab, link ke sosmed perusahaan, contact person : 08123566594 
+
+# domain link (copagabana.com)
+
+# link referensi : "https://sidomuncul.com/tolak-angin.php	“http://www.sidomuncul.id/"
+
+
+=========================================================================================================================================
+dari client : 
+Jadi copagabana itu asalnya dari cv.alief haqieqy. 
+Berdiri dr tahun 1989. Awalnya cuma jualan kecil2an perbotol gitu. 
+Temen antar temen. Setelah lama kemudian tiba2 peminatnya lumayan banyak (11 tahun berlalu) akhirnya buka toko baru. 
+Lah terus customernya semakin naik dr tahun ke tahun, akhirnya buka cabang dan membantu yg mau buka toko (di training sama ayah) 
+lama2 jadi kerjasama sama perusahaan besar kayak senses singapore, givaudan, mane, dll. 
+Dan copagabana bikin merk sendiri. 
+Jd sebenernya parfum cobagabana itu jual parfum branded yg baunya menyerupai aslinya. 
+Kaya hermes, adidas, ysl, hugo boss, lacoste dll. Sekarang cabangnya kira2 ada 50+ di indonesia. 
+========================================================================================================================================
