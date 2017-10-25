@@ -1,7 +1,6 @@
 [PERUSAHAAN PARFUM COPAGABANA]
 
 konten web: 
-
 # tab :   
 	- home (logo, keterangan singkat copagabana [perusahaan apa], header, footer)
 	- about (history, perkembangan pertahun, visi misi, divisi / departemen perusahaan) 
@@ -10,12 +9,11 @@ konten web:
         
     
 # footer : head office, factory, link ke tab, link ke sosmed perusahaan, contact person : 08123566594 
-
 # domain link (copagabana.com)
-
 # link referensi : "https://sidomuncul.com/tolak-angin.php	“http://www.sidomuncul.id/"
 
-
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+KONTEN TAB "HOME"
 ================================================================================================================================
 dari client : 
 Jadi copagabana itu asalnya dari cv.alief haqieqy. 
@@ -26,14 +24,13 @@ lama2 jadi kerjasama sama perusahaan besar kayak senses singapore, givaudan, man
 Dan copagabana bikin merk sendiri. 
 Jd sebenernya parfum cobagabana itu jual parfum branded yg baunya menyerupai aslinya. 
 Kaya hermes, adidas, ysl, hugo boss, lacoste dll. Sekarang cabangnya kira2 ada 50+ di indonesia. 
-===============================================================================================================================
-
-===================================================================================================================================
+================================================================================================================================
+================================================================================================================================
 konten deskripsi singkat perusahaan di home :
 Perusahaan Parfum Copagabana 	
 penyedia bibit parfum murni dengan berbagai jenis merk dalam jumlah grosir maupun retail yang telah terpercaya sejak tahun 1989 hingga saat ini. Dalam perkembangan pesat ini copagabana juga bekerja sama dengan beberapa perusahaan besar seperti Sense Singapore, Givaudan, Mane.
 ================================================================================================================================
-
+================================================================================================================================
 Cabang
 Jl. Gayungsari VII 31 Gayungan sby
 Jl. Raya Tandes Lor 24 tandes kidul sby
@@ -51,3 +48,24 @@ CG8 : Jl.jaksa agung suprapto no.112 gresik
 CG9 : Jl.perum GKGA kedanyang gresik
 CG10 : Jl.raya sidowungu no.80 menganti-gresik (depan pasar ayam mboro)
 ================================================================================================================================
+================================================================================================================================
+SOSMED : 
+Facebook : https://www.facebook.com/pages/Copa-Gabana-Parfum/213147982076405
+instagram : https://www.instagram.com/parfum_copagabana1989/
+no hp : 08123566594
+================================================================================================================================
+
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+KONTEN TAB ABOUT
+================================================================================================================================
+Perusahaan copagabana merupakan salah satu perusahaan pembuat parfum yang berasal dari CV.alief haqieqy yang berdiri sejak tahun 1989. Usaha ini menyediakan bibit wewangian dan parfum penyegar murni. Awalnya perusahaan ini hanya didukung oleh beberapa karyawan saja, memiliki dan cakupan distribusinya juga terbatas pada kawasan atau daerah tertentu serta menjual parfum dalam skala kecil (perbotol) hingga 11 tahun berlalu copagabana memiliki customer yang bertambah banyak sehingga memutuskan untuk membuka sebuah toko baru, hal ini juga berdampak pula pada berkembangnya perusahaan wewangian yang mulai melebarkan dunia pasar hingga 5 provinsi yaitu Jakarta, Yogyakarta, Jawa Timur,Jawa Barat, Jawa Tengah, Kalimantan. Sekarang ini copagabana menawarkan pilihan lebih dari 100 aroma parfum yang berbeda, bersama dengan produk wewangian berkualitas tinggi lainnya. Tahun demi tahun usaha ini berkembang hingga membuka cabang di berbagai kota di Indonesia. 
+Pada tahun copagabana juga bekerja sama dengan beberapa perusahaan besar seperti Sense Singapore, Givaudan, Mane, dll hingga akhirnya membuat merk sendiri.
+================================================================================================================================================================================================================================================================
+VISI:
+
+================================================================================================================================================================================================================================================================
+MISI :
+ 
+ ================================================================================================================================================================================================================================================================
+ 
