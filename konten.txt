@@ -10,7 +10,7 @@ konten web:
     
 # footer : head office, factory, link ke tab, link ke sosmed perusahaan, contact person : 08123566594 
 # domain link (copagabana.com)
-# link referensi : "https://sidomuncul.com/tolak-angin.php	“http://www.sidomuncul.id/"
+# link referensi : "https://sidomuncul.com/tolak-angin.php	“http://www.sidomuncul.id/"		"http://syafriedwi.com"
 
 ````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 KONTEN TAB "HOME"
